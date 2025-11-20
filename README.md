@@ -74,6 +74,7 @@ application-command-centre/
 │   └── summary.py
 │
 └── README.md
+
 🚀 How to Run
 
 Install Python 3
@@ -159,6 +160,7 @@ application-command-centre/
 │   └── summary.py
 │
 └── README.md
+
 🚀 How It Works (High Level)
 
 1. Load data
@@ -190,6 +192,7 @@ A clean summary table is produced showing:
 • recommended next action
 
 This helps you immediately see your strongest bets and where to invest time.
+
 🧠 Why This Project Matters
 
 This tool proves you can:
