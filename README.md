@@ -79,6 +79,7 @@ application-command-centre/
 Install Python 3
 Then run:
 python examples/demo_run.py
+
 💡 Why this project matters
 
 This tool proves you can:
