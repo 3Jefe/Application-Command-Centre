@@ -1,0 +1,11 @@
+role,company,route,location,requirements_match,competition_level,prep_hours,stage,outcome
+Data Analyst Apprentice,National Grid,Apprenticeship,Leeds,0.82,4,5,Applied,pending
+Corporate Audit Data Apprentice,State Street,Apprenticeship,London,0.76,5,6,Online test,pending
+Business Analyst Apprentice,Kaplan / Hartree,Apprenticeship,Manchester,0.88,4,7,Applied,pending
+Technology Degree Apprentice,Accenture,Degree apprenticeship,Newcastle,0.71,5,4,Shortlist,pending
+Customer Network Dev Engineer,National Grid,Apprenticeship,Leeds,0.79,4,3,Applied,pending
+Data Analyst Apprentice,QA,Apprenticeship,Birmingham,0.84,3,2,Applied,pending
+Project Controls Apprentice,Mace,Apprenticeship,London,0.69,5,5,Applied,pending
+Retail Data Analyst,Supermarket Co,Job,Nottingham,0.65,3,3,Applied,rejected
+Junior BI Analyst,FinTech Start-up,Job,Remote,0.73,4,6,Interview,pending
+Operations / Data Intern,Local Council,Internship,Retford,0.81,2,2,Applied,offer
